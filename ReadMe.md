@@ -12,9 +12,21 @@
 
 **Questions:**
 
-- Where are we getting the bible verses from API, or Build ours/RAG(vector, embedding)
+- Where are we getting the bible verses from API, or Build ours/RAG(vector, embedding):
+  - Data Source:
+    - [Bible API](https://bible.helloao.org/docs/guide/making-requests.html#get-a-chapter-from-a-dataset)
+
+  - RAG
+    - Embedding algorithm
 - What model to use, LLM (Gemini, Claude, ChatGPT, AWS/Cloud)
+
 - Tech Stack/Application architecture (frontend, backend)
+  - Database:
+    - postgres (technology), **why:** it has support vector database, simple to implement
+  - UI:
+    - Dash
+  - Backend
+    - For V1 separate backend, removing the need to implement an api in our first version
 
 ## Project Setup
 
@@ -27,3 +39,7 @@
 
 - Architecture of project
 - Teck Stack
+
+## Teck Stack
+
+- Dash, Python, Postgres (vector db), Docker
