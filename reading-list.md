@@ -13,3 +13,9 @@
   - Cosine Similarity
   - Dot Product
   - Euclidean Distance
+
+**Programming Features:**
+
+- String interpolation
+- Function vs Method
+- indentation
