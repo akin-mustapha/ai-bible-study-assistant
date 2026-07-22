@@ -43,3 +43,22 @@
 ## Teck Stack
 
 - Dash, Python, Postgres (vector db), Docker
+
+
+## bible passage to exclude
+Tobit
+Judith
+Wisdom (or Wisdom of Solomon)
+Sirach (also called Ecclesiasticus)
+Baruch
+1 Maccabees
+2 Maccabees
+
+In addition, the Catholic Bible includes extra portions of some books that are shorter in most Protestant Bibles:
+
+Additional chapters in Esther (Esther 10:4–16:24 in Catholic numbering)
+Additions to Daniel:
+The Prayer of Azariah (inserted in Daniel 3)
+The Song of the Three Young Men (Daniel 3)
+Susanna (Daniel 13)
+Bel and the Dragon (Daniel 14)
